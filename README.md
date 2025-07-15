@@ -2,8 +2,7 @@
 
 ## Overview
 
-This application helps a private pharmacy manage medicine inventory, employees, customers, invoices, and statistical reports. It features a friendly GUI using Java Swing and supports role-based access for both managers and sales staff.
-
+Developed a desktop-based pharmacy sales management system for a private pharmacy using Java. The application supports managing medicine inventory, suppliers, customers, employees, user accounts, invoices, and sales statistics. Implemented role-based access for managers and sales staff, and designed a friendly Java Swing GUI for ease of use. Integrated MariaDB for data storage and used Java Persistence API for data access.
 ---
 
 ## Features
