@@ -1,10 +1,5 @@
 # Pharmacy Sales Management System
 
-A desktop application developed in Java to support pharmacy sales and inventory management. The system includes features such as medicine management, customer and employee management, invoice creation, and daily revenue statistics.
-
-
----
-
 ## Overview
 
 This application helps a private pharmacy manage medicine inventory, employees, customers, invoices, and statistical reports. It features a friendly GUI using Java Swing and supports role-based access for both managers and sales staff.
