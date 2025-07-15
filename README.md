@@ -1,6 +1,7 @@
 # Pharmacy Sales Management System
 
-A desktop-based pharmacy sales management application developed in Java. This project was built as part of the **Distributed Programming with Java** course at Industrial University of Ho Chi Minh City (IUH).
+A desktop application developed in Java to support pharmacy sales and inventory management. The system includes features such as medicine management, customer and employee management, invoice creation, and daily revenue statistics.
+
 
 ---
 
